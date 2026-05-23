@@ -1,2 +1,2 @@
 Listas de exercícios Python.
-Fontes.: Hashtag Treinamentos
+Fonte.: Hashtag Treinamentos
